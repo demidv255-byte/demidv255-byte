@@ -1,4 +1,8 @@
 ## Hi there 👋
+Добрый день!
+На данный момент страница в разработке.
+Я ценю ваше внимание.
+Спасибо, что обратились ко мне.
 
 <!--
 **demidv255-byte/demidv255-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
